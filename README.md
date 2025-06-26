@@ -5,7 +5,7 @@ This repository contains practical, ready-to-use templates for planning and mana
  **Network Design**
 [Network Equipment list](https://docs.google.com/spreadsheets/d/1zZUIWevQFROEjvuYxKxRg_T5jpffooyl/edit?gid=1255874586#gid=1255874586) 
 
-## Network Design Template
+## [Network Design Template](https://docs.google.com/spreadsheets/d/1zZUIWevQFROEjvuYxKxRg_T5jpffooyl/edit?gid=1255874586#gid=1255874586)
 Plan your entire home or office network setup.
 - Equipment list (routers, switches, access points, IoT hubs)
 - Protocol and port usage table (e.g., Zigbee, Matter, MQTT)
